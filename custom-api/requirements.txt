@@ -8,7 +8,7 @@ click==6.7
 cryptoconditions==0.6.0.dev1
 cryptography==1.9
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
